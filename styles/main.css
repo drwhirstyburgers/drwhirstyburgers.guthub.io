@@ -22,3 +22,7 @@ main {
 .project img {
   width: 100%;
 }
+footer.mdl-mini-footer {
+  bottom: 0;
+  position: fixed;
+}
