@@ -13,3 +13,12 @@ h1 {
   font-size: 1.6rem;
   color: hsla(0, 0%, 100%, 0.7);
 }
+main {
+  max-width: 900px;
+}
+.project-description {
+  padding-left: 0;
+}
+.project img {
+  width: 100%;
+}
